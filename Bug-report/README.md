@@ -6,9 +6,9 @@
 
 | Title             | Description                                                                |
 | ----------------- |----------------------------------------------------------------------------|
-| 'Заголовок'         | [bug][web][prod / test]                                                    |
-| Описание
-    |                                                                            |
+|`Header`           | [bug][web][prod / test]                                                    |
+|  `Description`
+                                                                                
 | `Playback steps`  |                                                                            |
 | `Current result`  |                                                                            |
 | `Expected Result` |                                                                            |
