@@ -34,7 +34,7 @@
 | `Current result`  | Ссылка на скрин|
 | `Expected Result` | Кнопка кликабельна, открывается информация о политике конфиденциальности|
 | `Environment`     | Google Chrome Версия 106.0.5249.119 / RU|
-| `Device`          | MacOS 13.1 (22C65), MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) <img width="312" alt="image" src="Ссылка на скрин">|
+| `Device`          | MacOS 13.1 (22C65), MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) Ссылка на скрин|
 | `Analytics`       | Тут можно приложить статистику сколько пользователей задела проблема |
 | `Documentation`   | Тут можно приложить ссылку на документацию|
 | `Logs`            | Тут можно приложить выборку из логов в момент получения бага|
