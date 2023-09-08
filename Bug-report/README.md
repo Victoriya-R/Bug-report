@@ -7,7 +7,7 @@
 | Title             | Description                                                                |
 | ----------------- |----------------------------------------------------------------------------|
 |`Header`           | [bug][web][prod / test]                                                    |
-|  `Description`
+|  `Description`    |                                                                            |
                                                                                 
 | `Playback steps`  |                                                                            |
 | `Current result`  |                                                                            |
