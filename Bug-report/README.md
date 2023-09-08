@@ -6,9 +6,8 @@
 
 | Title             | Description                                                                |
 | ----------------- |----------------------------------------------------------------------------|
-|`Header`           | [bug][web][prod / test]                                                    |
-|  `Description`    |                                                                            |
-                                                                                
+|   `Header`        | [bug][web][prod / test]                                                    |
+|  `Description`    |                                                                            |                                                                                
 | `Playback steps`  |                                                                            |
 | `Current result`  |                                                                            |
 | `Expected Result` |                                                                            |
