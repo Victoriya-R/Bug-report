@@ -31,10 +31,10 @@
 | `Header`          | [bug][web][prod] Не кликабельна кнопка "Политика конфиденциальности" на сайте  |
 | `Description`     | Не кликабельна кнопка "Политика конфиденциальности" на сайте |
 | `Playback steps`  | 1. Зайти на сайт https://test.qa/,  2. Нажать на кнопку “Политика конфиденциальности”|
-| `Current result`  | <img src="https://user-images.githubusercontent.com/44261093/220348885-c963219c-0e05-4b04-8243-b9117a128b49.png" width="300">|
+| `Current result`  | <img src="Ссылка на скрин">|
 | `Expected Result` | Кнопка кликабельна, открывается информация о политике конфиденциальности|
 | `Environment`     | Google Chrome Версия 106.0.5249.119 / RU|
-| `Device`          | MacOS 13.1 (22C65), MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) <img width="312" alt="image" src="https://user-images.githubusercontent.com/44261093/220351061-c94478eb-189e-4d35-ab17-268c2991faf0.png">|
+| `Device`          | MacOS 13.1 (22C65), MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) <img width="312" alt="image" src="Ссылка на скрин">|
 | `Analytics`       | Тут можно приложить статистику сколько пользователей задела проблема |
 | `Documentation`   | Тут можно приложить ссылку на документацию|
 | `Logs`            | Тут можно приложить выборку из логов в момент получения бага|
