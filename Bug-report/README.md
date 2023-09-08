@@ -31,7 +31,7 @@
 | `Header`          | [bug][web][prod] Не кликабельна кнопка "Политика конфиденциальности" на сайте  |
 | `Description`     | Не кликабельна кнопка "Политика конфиденциальности" на сайте |
 | `Playback steps`  | 1. Зайти на сайт https://test.qa/,  2. Нажать на кнопку “Политика конфиденциальности”|
-| `Current result`  | "Ссылка на скрин"|
+| `Current result`  | Ссылка на скрин|
 | `Expected Result` | Кнопка кликабельна, открывается информация о политике конфиденциальности|
 | `Environment`     | Google Chrome Версия 106.0.5249.119 / RU|
 | `Device`          | MacOS 13.1 (22C65), MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) <img width="312" alt="image" src="Ссылка на скрин">|
